@@ -9,7 +9,7 @@ Number of output classes: 10 (1 for each digit)
 2. Accuracies on Training, Validation and Testing sets.
 
 ### Usage:
-1. Number of Hidden Layers
+1. Number of Hidden Layers:  
    Set the number of hidden nodes in the variable `n_hidden`
-2. Regularization
+2. Regularization:   
    Set the regularization parameter (0-1) in the variable `lambdaval`
